@@ -1,5 +1,5 @@
 .cph/
-.vscode
+.vscode/
 *.txt
 *.exe
 *.bin
