@@ -3,3 +3,4 @@
 *.txt
 *.exe
 *.bin
+.DS_Store
