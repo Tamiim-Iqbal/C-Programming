@@ -12,5 +12,6 @@ int main()
             printf("A[%d] = %d\n",i,ar[i]);
         }
     }
+    
     return 0;
 }

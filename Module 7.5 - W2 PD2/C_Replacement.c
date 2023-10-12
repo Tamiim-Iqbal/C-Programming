@@ -24,5 +24,6 @@ int main()
     {
         printf("%d ",ar[i]);
     }
+    
     return 0;
 }

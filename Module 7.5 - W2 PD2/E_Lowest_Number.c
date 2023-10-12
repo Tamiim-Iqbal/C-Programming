@@ -17,5 +17,6 @@ int main()
         }
     }
     printf("%d %d",mn, pos);
+    
     return 0;
 }
