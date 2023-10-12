@@ -15,4 +15,4 @@
 
 3. Conditional Statement - https://docs.google.com/document/d/1bepRhM8ttF05-c0SjXgKdNvy6w49Ezx3HgDGbPsg7QQ/edit
 4. Loop & Nested Loop - https://docs.google.com/document/d/17ohkmyVo-smCrYJsEPHv4om6VPT0igi1CCSRp0Psb8U/edit
-5. Week 02 PD 02 - https://docs.google.com/document/d/13WAjf3c91H1A0yiNvVVcp_ld7kx6ZBvFdWPvaq-16k8/edit
+5. Week 02 PD 01 - https://docs.google.com/document/d/13WAjf3c91H1A0yiNvVVcp_ld7kx6ZBvFdWPvaq-16k8/edit
