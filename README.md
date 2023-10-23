@@ -23,3 +23,5 @@
 
 8. String - https://docs.google.com/document/d/1LfOb5G-pbJaOKUEAUGVATDg6PU96MYKpyASt4nWZGuc/edit
 9. Week 3 PD1 - https://docs.google.com/document/d/1geZ2RYI0CXKm3O0Y5O9643MR8tlf82G_ozJexc06RrA/edit
+10. Week 3 PD2 - https://docs.google.com/document/d/1PT2CA2uPXJ9p85RQ4pXazgu-NgCX9ROqbB9KqmJxFGQ/edit
+11. Mid Exam - https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-04/challenges
