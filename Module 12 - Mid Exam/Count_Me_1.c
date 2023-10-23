@@ -21,5 +21,6 @@ int main()
         }
     }
     printf("%d %d",two,three);
+    
     return 0;
 }

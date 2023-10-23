@@ -19,7 +19,7 @@ int main()
         {
             printf("%c - %d\n", 'a' + i, count[i]);
         }
-        
     }
+    
     return 0;
 }

@@ -32,5 +32,6 @@ int main()
         printf("%d %d %d\n", capital, small, digit);
         t--;
     }
+    
     return 0;
 }
