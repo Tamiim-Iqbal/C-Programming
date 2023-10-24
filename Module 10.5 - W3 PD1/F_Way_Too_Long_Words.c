@@ -18,6 +18,6 @@ int main()
             printf("%c%d%c\n",a[0],s-2,a[s-1]);
         }
         t--;
-    }
+    } 
     return 0;
 }
