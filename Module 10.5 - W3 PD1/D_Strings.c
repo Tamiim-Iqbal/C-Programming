@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-    char a[11],b[11],c[11];
+    char a[22],b[11],c[11];
     scanf("%s %s",a,b);
     int s1=strlen(a);
     int s2=strlen(b);
