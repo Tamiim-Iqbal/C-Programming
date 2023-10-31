@@ -29,3 +29,7 @@
 <h6> Week 4 : Nested Loop, Function, Pointer </h6>
 
 12. Week 4 PD1 - https://docs.google.com/document/d/1uzoOl9K0McJaxyy_o0p4la_sGCC8A-O8/edit
+13. Week 4 PD2 - https://docs.google.com/document/d/1xhF5KOCzEu-6HGqsW6X1BFTUpIUekQCZ/edit
+14. Assignment 3 - https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-04/challenges
+
+<h6> Week 5 : Recursion, 2D Array </h6>
