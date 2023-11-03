@@ -33,3 +33,8 @@
 14. Assignment 3 - https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-04/challenges
 
 <h6> Week 5 : Recursion, 2D Array </h6>
+
+15. Week 5 PD1 - https://docs.google.com/document/d/1GbTHwVCHTTFqK-Kam9aCj-NgZN6nn9na/edit
+16. 2D Array, Recursion - https://docs.google.com/document/d/1cScLgQWIiFPotiqQtvrtO1H-Cut7H5iCkkDcUfmqzmw/edit
+17. Week 5 PD2 - 
+18. Final Exam - 
