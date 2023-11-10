@@ -36,5 +36,5 @@
 
 15. Week 5 PD1 - https://docs.google.com/document/d/1GbTHwVCHTTFqK-Kam9aCj-NgZN6nn9na/edit
 16. 2D Array, Recursion - https://docs.google.com/document/d/1cScLgQWIiFPotiqQtvrtO1H-Cut7H5iCkkDcUfmqzmw/edit
-17. Week 5 PD2 - 
-18. Final Exam - 
+17. Week 5 PD2 - https://docs.google.com/document/d/1fWgdURQDzQ4XhdTn_-bktF1gXLyJAcQC/edit
+18. Final Exam - https://www.hackerrank.com/contests/final-exam-a-introduction-to-c-programming-a-batch-04/challenges
